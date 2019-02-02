@@ -5,3 +5,19 @@ this is my first text file12
 this is my first text file123
 this is my first text file1234
 this is my first text file12345
+
+setup git:
+
+git config --global user.name " your name"
+git config --global user.email xyz@gmail.com
+
+other commands
+git clone(url)
+git add (file name)
+git commit -m (committed messages)
+git push -u origin master
+git remote add origin master(url)
+
+Basic Git command List- the simple guide
+www.codebind.com/linux-tutorials/basic-git-commands-list/
+

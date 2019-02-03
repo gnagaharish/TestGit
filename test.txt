@@ -9,7 +9,7 @@ this is my first text file12345
 setup git:
 
 git config --global user.name " your name"
-git config --global user.email xyz@gmail.com
+git config --global user.email xyz@gmail.comm
 
 other commands
 git clone(url)
@@ -17,7 +17,10 @@ git add (file name)
 git commit -m (committed messages)
 git push -u origin master
 git remote add origin master(url)
+git status
+
 
 Basic Git command List- the simple guide
 www.codebind.com/linux-tutorials/basic-git-commands-list/
+
 
